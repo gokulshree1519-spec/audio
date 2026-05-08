@@ -1,5 +1,5 @@
-stramlit
+streamlit
 audio-recorder-streamlit
-deep-transistor
+deep-translator
 gTTS
 SpeechRecognition
